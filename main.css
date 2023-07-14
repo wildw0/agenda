@@ -92,4 +92,6 @@ table td img {
     height: 25px;
 }
 
-
+.material-symbols-outlined {
+    font-size: 200% !important;
+}
